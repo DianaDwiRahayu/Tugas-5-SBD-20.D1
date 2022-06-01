@@ -6,7 +6,7 @@
 <p> 1. Siapkan teks editor dan xampp, konfigurasi xampp terlebih dahulu
 <p> 2. Kita buat file koneksi pada notepad++ dan beri judul koneksi.php
 
-![1](https://user-images.githubusercontent.com/101866805/170502649-8ebf633a-7864-43d6-8c81-dcc64f1269f4.png)
+![1](https://user-images.githubusercontent.com/101866805/171351089-abc8db2f-625c-4a27-aeca-985d185fe591.png)
 <p> Kemudian simpan dan buka pada browser dengan link http://localhost/Tugas5_SBD/koneksi.php
 
 ![2](https://user-images.githubusercontent.com/101866805/170503395-1bf526b8-f909-4343-95ac-c57b140186a7.png)
@@ -26,7 +26,7 @@
 
 <p> Buka dengan mengklik navigasi pasien
 
-![9](https://user-images.githubusercontent.com/101866805/170504548-3b524abd-4a33-408b-b1de-53ff8bb70d77.png)
+![9](https://user-images.githubusercontent.com/101866805/171352353-8cc9dabc-91e9-4ec8-a7db-d1197843e44d.png)
 <p> 5. Selanjutnya membuat file baru dan beri nama obat.php, berikut syntax obat.php
 
 ![10](https://user-images.githubusercontent.com/101866805/170504918-c58aa12b-c0e4-455d-aeab-5127a5e050ee.png)
@@ -34,7 +34,7 @@
 
 <p>Buka dengan mengklik navigasi obat
 
-![12](https://user-images.githubusercontent.com/101866805/170504941-d38b863b-8db5-474e-bb13-2a8f347da28a.png)
+![12](https://user-images.githubusercontent.com/101866805/171352398-f45422d8-b196-435e-a52a-bc9e104664a2.png)
 <p> 6. Selanjutnya membuat file baru dan beri nama dokter.php, berikut syntax dokter.php 
 
 ![13](https://user-images.githubusercontent.com/101866805/170505198-c5bdbc65-7620-491a-8cfd-c9277d6a0f8d.png)
@@ -42,7 +42,7 @@
 
 <p> Buka dengan mengklik navigasi dokter
 
-![15](https://user-images.githubusercontent.com/101866805/170505222-68e00b4f-1aa0-490c-88db-3081250f7f58.png)
+![15](https://user-images.githubusercontent.com/101866805/171352436-ce3aa75c-ee45-4942-88ff-d47f45cc20ec.png)
 <p> 7. Selanjutnya membuat file baru dan beri nama berobat.php, berikut syntax berobat.php
 
 ![16](https://user-images.githubusercontent.com/101866805/170506114-16f7e92e-bbec-4f4a-885a-61eb3dc8ad74.png)
@@ -50,7 +50,7 @@
 
 <p> Buka dengan mengklik navigasi berobat
 
-![18](https://user-images.githubusercontent.com/101866805/170506137-278e2dfa-b248-40e3-8150-9432dc3aa2ef.png)
+![18](https://user-images.githubusercontent.com/101866805/171352521-b7775b8f-265f-409c-beee-930bad84a6e6.png)
 <p> 8. Selanjutnya membuat file baru dan beri nama resep.php, berikut syntax resep.php
 
 ![19](https://user-images.githubusercontent.com/101866805/170506410-7e2094d3-0646-4f51-834c-d543861dac53.png)
@@ -58,7 +58,7 @@
 
 <p> Buka dengan mengklik navigasi resep
 
-![21](https://user-images.githubusercontent.com/101866805/170506443-e8660597-91eb-4c79-b893-20f142b0945c.png)
+![21](https://user-images.githubusercontent.com/101866805/171352578-14c065f4-40bc-42f4-bb3f-b8f61c3e0c63.png)
 <p> 9. Selanjutnya membuat file baru dan beri nama users.php, berikut syntax users.php
 
 ![22](https://user-images.githubusercontent.com/101866805/170506700-ebd38c8b-6598-48f9-8c2f-95f0896bd5c1.png)
@@ -66,7 +66,7 @@
 
 <p> Buka dengan mengklik navigasi users
 
-![24](https://user-images.githubusercontent.com/101866805/170506720-b710ecd4-ae58-41e3-80f0-99377801d7ee.png)
+![24](https://user-images.githubusercontent.com/101866805/171352629-19851f93-1587-4e0a-b484-380b875aad78.png)
 <p> Pada tampilan web browser di atas saya menggunakan css agar lebih menarik, beriut syntax css
 
 ![25](https://user-images.githubusercontent.com/101866805/170507605-1ecd71fb-c474-4c64-aba2-06c4cb3c96a4.png)
